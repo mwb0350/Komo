@@ -60,7 +60,36 @@ python3 Komo.py  --proxy socks5://127.0.0.1:10809 install
 
 如下图所示，如果下载失败，则需要手动去下载对应工具到对应目录。
 
-![image-20220927001258352](images/image-20220927001258352.png)
+**推荐公众号文章：[综合资产收集和漏洞扫描工具](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247485631&idx=1&sn=d255af0bf051055b1f84056415a86772&chksm=ec5355dcdb24dcca0656c88558c0fac629b96d3ebf7853c0968c25155dc8dfc2b597f70a3919&scene=132&ascene=0&devicetype=Windows+11+x64&version=63090217&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQDbjBFqKJCWspv93aFzMrCRLfAQIE97dBBAEAAAAAAILxJ4D9f4wAAAAOpnltbLcz9gKNyK89dVj02LCVjULwqTdba0IAPjFFYOtZD3ibye9x0cp1fclqGrnv55FsadiGS6wvzzgZyuhiUG7MSoF98mT4YvnnSC94yEcdre5XuXyRXRBUlzJfB4L8DS6CyGGODdMERamqWX1KD%2BeFhJzab8rSOzIXKi3LD%2B078jqIKuvNmRy9fZ1oNhUaHcwXb85nR%2FpUedvCg21kjP6yi7yN%2FLhWo90NKn%2F8K7zg9DApy0oqWQXJu6eepV5KFvCOy603zVs%3D&pass_ticket=eSBPHSjdSvXWCTggPny%2BRb0kk88VYlZB58F2yrq%2Bqe8nQjtdJZ%2Fwex97%2FxJkSm3P1HrJAqZk9D5GmIJvY4qYSg%3D%3D&wx_header=1&key=db5741f71e06fac51e38034f8de9511f8827f63d6ddb4e2c87f9850aab238ca214ab08442d8844c3f4558c27e509f8e2c0177600e9f9fde820a35dfc3f13be76dc9606126cba73992f88a43fefcec88c7a253236dbbb0688962e7833580763794e75ba8a31510e063910e478f306b3eaa70557e83d1aae02e179ccbff237ce9f&uin=OTE4MDYzMjYx&acctmode=0)**
+
+
+**附带工具下载链接**
+
+```
+https://commondatastorage.googleapis.com/chromium-browser-snapshots/Win_x64/1051001/chrome-win.zip
+https://github.com/4dogs-cn/TXPortMap/releases/download/v1.1.2/TxPortMap_windows_x64.exe
+https://github.com/boy-hack/ksubdomain/releases/download/v1.9.5/KSubdomain-windows.tar
+https://github.com/chaitin/rad/releases/download/0.4/rad_windows_amd64.exe.zip
+https://github.com/i11us0ry/goon/releases/download/v3.5/goon3_win_amd64.zip
+https://github.com/inbug-team/SweetBabyScan/releases/download/v0.1.0/SbScanAmd64.exe
+https://github.com/jaeles-project/gospider/releases/download/v1.1.6/gospider_v1.1.6_windows_x86_64.zip
+https://github.com/lc/gau/releases/download/v2.1.2/gau_2.1.2_windows_amd64.zip
+https://github.com/maurosoria/dirsearch/archive/refs/heads/master.zip
+https://github.com/OWASP/Amass/releases/download/v3.21.2/amass_windows_amd64.zip
+https://github.com/pingc0y/URLFinder/blob/master/URLFinder-windows64.exe?raw=true
+https://github.com/projectdiscovery/httpx/releases/download/v1.2.4/httpx_1.2.4_windows_amd64.zip
+https://github.com/projectdiscovery/naabu/releases/download/v2.1.1/naabu_2.1.1_windows_amd64.zip
+https://github.com/projectdiscovery/nuclei/releases/download/v2.8.3/nuclei_2.8.3_windows_amd64.zip
+https://github.com/projectdiscovery/subfinder/releases/download/v2.5.3/subfinder_2.5.3_windows_amd64.zip
+https://github.com/Qianlitp/crawlergo/releases/download/v0.4.4/crawlergo_win_amd64.exe
+https://github.com/rverton/webanalyze/releases/download/v0.3.8/webanalyze_0.3.8_Windows_x86_64.tar.gz
+https://github.com/shmilylty/OneForAll/blob/master/data/ip2location.zip?raw=true
+https://github.com/shmilylty/OneForAll/blob/master/data/ip2region.db?raw=true
+https://github.com/shmilylty/OneForAll/blob/master/data/subnames_big.7z?raw=true
+https://github.com/veo/vscan/releases/download/v2.1.0/vscan_2.1.0_windows_amd64.zip
+https://github.com/zan8in/afrog/releases/download/v2.1.1/afrog_2.1.1_windows_amd64.zip
+https://github.com/zhzyker/vulmap/archive/refs/tags/v0.9.zip
+```
 
 注意：使用v2ray的开全局不一定能行，可以使用clash开TUN。
 
